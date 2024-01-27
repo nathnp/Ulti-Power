@@ -19,6 +19,12 @@ protocol: NEC
 address: 04 00 00 00
 command: 08 00 00 00
 # 
+name: TCL
+type: parsed
+protocol: NECext
+address: EA C7 00 00
+command: 17 E8 00 00
+#
 name: Philips
 type: parsed
 protocol: RC6
