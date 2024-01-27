@@ -25,6 +25,18 @@ protocol: NECext
 address: EA C7 00 00
 command: 17 E8 00 00
 #
+name: Insignia
+type: parsed
+protocol: NECext
+address: 86 05 00 00
+command: 0F F0 00 00
+#
+name: Onn
+type: parsed
+protocol: NECext
+address: EA C7 00 00
+command: 17 E8 00 00
+#
 name: Philips
 type: parsed
 protocol: RC6
