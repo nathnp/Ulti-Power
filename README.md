@@ -19,6 +19,8 @@ Digital Signage:
   Sharp
 Cable Boxes:
   Direct TV
+Set-top Boxes:
+  Apple TV (reboots Apple TV) 
 Other:
   LEDs 
     (That one remote that comes with tons of battery powered LED lights)
