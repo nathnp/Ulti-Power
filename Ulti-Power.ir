@@ -80,6 +80,18 @@ type: parsed
 protocol: NECext
 address: EE 87 00 00
 command: 18 37 00 00
+#
+name: Roku
+type: parsed
+protocol: NECext
+address: 86 05 00 00
+command: 0F F0 00 00
+#
+name: FireTV
+type: parsed
+protocol: NEC
+address: 03 00 00 00
+command: 1D 00 00 00
 # 
 # Remote found with most battery powered LED lights
 #

@@ -20,7 +20,9 @@ Digital Signage:
 Cable Boxes:
   Direct TV
 Set-top Boxes:
-  Apple TV (reboots Apple TV) 
+  Apple TV (reboots Apple TV)
+  Roku
+  FireTV 
 Other:
   LEDs 
     (That one remote that comes with tons of battery powered LED lights)
